@@ -1,5 +1,5 @@
 # PRODIGY_WD_03
-Tic-Tac-Toe Game
+# Tic-Tac-Toe Game
 
 # Overview
 This project is a simple yet elegant Tic-Tac-Toe Game application built using HTML, CSS, and JavaScript.
